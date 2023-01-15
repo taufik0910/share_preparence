@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">share_preparence</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_age">Age</string>
+    <string name="tv_gender">Gender</string>
+    <string name="btn_edit">edit</string>
+    <string name="et_name">name</string>
+    <string name="et_age">Age</string>
+    <string name="et_gender">Gender</string>
+    <string name="btn_save">save</string>
+</resources>
